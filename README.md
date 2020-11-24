@@ -1,5 +1,16 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# gen_license
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+Command line tools to generate a license file. Choose any of the licenses supported by https://github.com/github/choosealicense.com.
+
+## Install
+
+```shell
+$ pub global activate gen_license
+```
+
+## Run
+
+```shell
+$ cd ~/my_proj/
+$ gen_license
+```

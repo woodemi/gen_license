@@ -1,3 +1,3 @@
-## 1.0.0
+## 0.1.0 - 2020.11.24
 
-- Initial version, created by Stagehand
+- Generate license from https://choosealicense.com
